@@ -15,3 +15,4 @@ The Tools: Excel (Regression, PivotTables, Statistical Correlation).
 The Solution: Data-driven staffing, optimized store partnerships, and tiered pricing strategies.
 
 The Goal: Improved customer satisfaction and a stronger competitive edge.
+<img width="771" height="462" alt="04" src="https://github.com/user-attachments/assets/361c2ea6-9708-41bc-941d-d5a421eecf7b" />
