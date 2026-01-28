@@ -1,36 +1,14 @@
 ### Porter_Delivery_Analysis
 
-Project Goal
-•	This project analyzes Porter Delivery’s operational data to understand what affects delivery efficiency, customer experience, and revenue.
-•	The goal is to identify performance gaps, uncover key trends, and suggest data-driven improvements for business growth.
+This project analyzes delivery data to uncover key patterns, performance indicators, and operational factors that affect customer experience and business outcomes. The analysis focuses on delivery times, order values, market behaviors, partner availability, store categories, and customer ordering patterns.
 
-Key Insights
-•	Delivery performance depends on multiple connected factors, including:
-o	Peak-hour demand spikes
-o	Partner availability
-o	Store category efficiency
-o	Order size and complexity
-o	Pricing and customer spending patterns
-•	High-demand markets require better staffing and proactive resource planning.
-•	Some store categories underperform, showing opportunities for:
-o	Operational improvement
-o	Better coordination
-o	Stronger partnerships
-•	Larger and higher-value orders contribute more to revenue but may require optimized handling to avoid delays.
+Using Excel-based techniques such as Pivot Tables, statistical functions, correlation, and regression, the study evaluates how delivery protocols, order complexity, partner availability, market characteristics, and customer types influence delivery efficiency and revenue. The insights derived support strategic decisions in staffing, store partnerships, pricing strategies, and customer engagement.
 
-Actionable Business Recommendations
-•	Increase delivery partner availability during peak hours to reduce delays
-•	Optimize delivery schedules based on demand patterns
-•	Focus on high-value order segments to boost revenue
-•	Improve collaboration with underperforming stores to enhance service quality
-•	Adjust pricing and promotional strategies to improve customer engagement
+Overall, the project provides actionable insights to enhance delivery efficiency, improve customer satisfaction, boost high-value sales, and guide strategic planning across operations, marketing, and resource management.
 
-usiness Impact
-•	Better delivery efficiency can:
-o	Reduce delays and operational costs
-o	Improve customer satisfaction and retention
-o	Strengthen brand loyalty
-o	Enhance Porter’s competitive position in the food delivery market
+The analysis of Porter Delivery’s operational data reveals that delivery performance is influenced by multiple interconnected factors such as market demand, store category efficiency, staffing levels during peak hours, order complexity, and pricing patterns. By leveraging these insights, the company can make data-driven decisions to reduce delivery delays, optimize partner schedules, and target high-value markets and store categories.
+
+Improving delivery performance not only enhances customer satisfaction but also strengthens Porter’s competitive position in the rapidly growing food delivery market. Strategic optimization—such as increasing partner availability during peak times, collaborating with underperforming stores, and targeting high-value order categories—can lead to faster deliveries, higher order values, and increased customer loyalty. Ultimately, this project empowers Porter Delivery to transform operational challenges into profitable opportunities through the power of analytics.
 
 <img width="740" height="457" alt="03_New" src="https://github.com/user-attachments/assets/59a6790d-90b3-408a-a32b-eb48eb2c4ede" />
 
